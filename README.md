@@ -1,2 +1,3 @@
-Hi there, I'm learning to develop Minecraft plugins!
+Hello.
+I'm Craig, specifically Craig1532.
 My pronouns are he/him
